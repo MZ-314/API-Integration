@@ -48,3 +48,5 @@ The application uses modern JavaScript practices including async/await for API c
 
 ## Target Audience
 This weather dashboard is designed for general users seeking quick, reliable weather information with minimal complexity. It's particularly suitable for travelers, commuters, and anyone who needs to check weather conditions at a glance.
+
+![Image](https://github.com/user-attachments/assets/5893fa24-7cd0-46b9-a8e3-d0be3bee3def)
